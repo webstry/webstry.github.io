@@ -10,6 +10,10 @@
       "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
+    },{
+      "src": "./icon-170.png",
+      "sizes": "170x170",
+      "type": "image/png"
     }],
   "start_url": "./?utm_source=homescreen",
   "display": "standalone"
